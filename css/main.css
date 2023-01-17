@@ -1,0 +1,145 @@
+@import "common.css";
+@import "header.css";
+@import "footer.css";
+
+.main{
+    background-color: #E5E5E5 ;
+}
+.intro_container{
+    display: flex;
+    margin-top: 90px;
+}
+.intro_h3{
+    font-size: 32px;
+    color: #25468A;
+    margin-top: 10px;
+}
+.intro_p{
+    font-size: 20px;
+    width: 500px;
+    margin-top: 25px;
+    color: #25468A;
+}
+.intro_h1{
+    font-size: 70px;
+    color: #25468A;
+}
+.intro_btn{
+    padding: 15px 50px 15px 50px;
+    background-color: #F7BA0E;
+    border: #F7BA0E;
+    border-radius: 26px;
+    color:#25468A;
+    margin-top: 30px;
+}
+.cards_section{
+    display: flex;
+    padding-bottom: 50px;
+}
+.card_1{
+    padding: 69px 34px 68px 34px;
+    background-color: #1391CE;
+    border-radius: 8px;
+    color: #FFFFFF;
+    margin-top: 100px;
+}
+.reasons{
+    padding-bottom: 100px;
+    text-align: center;
+    margin-top: 100px;
+}  
+.reasons_h3{
+    font-size: 36px;
+    width: 387px;
+    color: #1391CE;
+}
+.border{
+    border-bottom: 1px solid #F7BA0E;
+    width: 100px;
+    width: 160px;
+    height: 8px;
+    left: 639px;
+    top: 1174.83px;
+}
+.card_2{
+    display: flex;
+    margin-top: 150px;
+    padding-bottom: 80px;
+}
+.text_2{
+    width:500px ;
+    text-align: start;
+    margin-top: 30px;
+}
+.text_2-p{
+    color: #25468A;
+    padding-bottom: 20px;
+}
+.text_2-h3{
+    color: #1391CE;
+    font-size: 34px;
+    padding-bottom: 20px;
+}
+.text-2_p{
+    font-size: 24px;
+    color:darkgrey ;
+    
+}
+.card_3{
+    display: flex;
+    padding-bottom: 80px;
+}
+.text_3{
+    margin-top: 30px;
+    text-align: start;
+    width: 500px;
+}
+.text_3-p{
+    color: #25468A;
+    padding-bottom: 15px;
+    font-size: 20px;
+}
+.text_3-h3{
+    color: #1391CE;
+    font-size: 32px;
+    padding-bottom: 30px;
+}
+.text-3_p{
+    color: darkgrey;
+    font-size: 19px;
+    padding-bottom: 23px;
+}
+.text_3-h4{
+    font-size: 22px;
+    color: #1391CE;
+    padding-bottom: 20px;
+}
+.list_style{
+    list-style-image: url(../images/li.png);
+    list-style-position:inside ;
+    font-size: 22px;
+    color: darkgrey;
+    padding-bottom: 14px;
+}
+.footer{
+    background-color: #1391CE;
+}
+.footer_container{
+    background-color: #1391CE;
+    padding: 90px;
+}
+.hr_2{
+    background-color: white;
+    border: white;
+    padding-bottom: 1px;
+}
+.span_footer{
+    color: white;
+}
+.p_1{
+    margin-top: 20px;
+}
+.p_2{
+    margin-left: 1100px;
+    margin-top: -20px;
+}

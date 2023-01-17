@@ -1,0 +1,37 @@
+.header{
+    background-color: #1391CE;
+}
+.header_container{
+    font-weight: 500;
+    padding-bottom: 40px;
+}
+.header_container nav ul{
+    display: flex;
+    justify-content: space-between;
+}
+.img{
+    margin-left: 30px;
+}
+.header_container li{
+    margin-top: 20px;
+    width: 400px;
+}
+.li_blue{
+    color: #25468A;
+}
+.li_white{
+    color: white;
+}
+.ul{
+   width: 500px;
+   margin-top: -55px;
+   margin-right: 100px;
+}
+.header_btn{
+    padding: 9px 18px 9px 18px;
+    border-radius: 24px;
+    border:#FFFFFF;
+    background-color: #fff;
+    margin-top: 13px;
+    margin-left: 20px;
+}
